@@ -1,6 +1,7 @@
-# 1 Tại thư mục gốc của dự án tạo hai file là DOckerfile & .dockerignore
+# Tại thư mục gốc của dự án tạo hai file là DOckerfile & .dockerignore
   # Tại Dockerfile
-    ![image](https://github.com/user-attachments/assets/118fbe32-c46e-4a4f-9ec3-ef90e73f31b8)
+    ![image](https://github.com/user-attachments/assets/53973a5f-d61f-49f7-89ac-b9b0bca1c81b)
+
   # Tại .dockerignore
     ![image](https://github.com/user-attachments/assets/2307da47-c706-48c9-a5bd-8efc39093054)
   # 2 Mở Terminal gõ
