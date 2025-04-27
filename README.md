@@ -1,4 +1,4 @@
-# Tại thư mục gốc của dự án tạo hai file là DOckerfile & .dockerignore
+
   # Tại Dockerfile
     ![image](https://github.com/user-attachments/assets/53973a5f-d61f-49f7-89ac-b9b0bca1c81b)
 
